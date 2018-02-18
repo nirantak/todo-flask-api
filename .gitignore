@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+local/
 env/
 build/
 develop-eggs/
@@ -96,6 +97,7 @@ ENV/
 
 # mkdocs documentation
 /site
+README.html
 
 # mypy
 .mypy_cache/
