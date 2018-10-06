@@ -7,7 +7,7 @@ name = "pypi"
 
 [packages]
 
-Flask = "*"
+Flask = "<1.0.0"
 sqlalchemy = "*"
 Flask-RESTful = "*"
 Flask-SQLAlchemy = "*"
